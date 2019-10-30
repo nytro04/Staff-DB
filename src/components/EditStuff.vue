@@ -48,13 +48,6 @@ export default {
         this.stuff = stuff;
       }
     });
-
-    // const newStuff = stuffDB.map(stuff => {
-    //   if (stuff.id === params) {
-    //     this.stuff = stuff;
-    //   }
-    //   return stuff;
-    // });
   },
 
   methods: {
