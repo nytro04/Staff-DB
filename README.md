@@ -1,4 +1,4 @@
-# assignment1
+# Staff-DB
 
 ## Project setup
 ```
