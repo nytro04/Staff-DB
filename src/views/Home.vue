@@ -16,7 +16,7 @@
             <th scope="col">Actions</th>
           </tr>
         </thead>
-        <tbody v-for="(stuff,index) in stuffs" :key="stuff.id">
+        <tbody v-for="(stuff, index) in stuffs" :key="stuff.id">
           <tr>
             <th scope="row">{{ index + 1}}</th>
             <td>{{stuff.name}}</td>
